@@ -1,19 +1,19 @@
-我们非常重视您的隐私。我们的插件 "YouTube Unsubscriber" 在设计时就以保护您的隐私为核心原则。
+We take your privacy very seriously. Our plugin "YouTube Unsubscriber" is designed with the core principle of protecting your privacy.
 
-1. 数据处理原则
+Data Processing PrinciplesNo Collection of Personal Data: 
 
-- 不收集个人数据：我们不会收集、存储、使用或分享任何您的个人身份信息，包括您的姓名、电子邮件地址、IP地址或YouTube频道信息。
+We do not collect, store, use, or share any of your personal identifying information, including your name, email address, IP address, or YouTube channel information.
 
-- 完全本地化操作：本插件的所有功能，包括扫描和取消订阅频道，都完全在您自己的浏览器中进行。您的订阅列表数据永远不会离开您的计算机，也绝不会发送到我们的服务器或任何第三方。
+Fully Localized Operations: 
 
-- 无服务器交互：本插件不与任何服务器进行通信来传输您的个人数据。所有操作都是客户端行为。
+All functions of this plugin, including scanning and unsubscribing from channels, are performed entirely within your own browser. Your subscription list data never leaves your computer and is never sent to our servers or any third parties.
 
-2. 我们处理的数据
+No Server Interaction: 
 
-本插件仅在运行时于您的浏览器内存中临时处理您的YouTube订阅列表，以便执行取消订阅操作。当您关闭页面或插件后，这些信息不会被保存。
+This plugin does not communicate with any servers to transmit your personal data. All operations are client-side.
 
-3. 联系我们
+Data We ProcessThis plugin only temporarily processes your YouTube subscription list in your browser's memory while it is running, in order to perform the unsubscribe action. 
 
-如果您对本隐私政策有任何疑问，请通过以下方式与我们联系：
+This information is not saved when you close the page or the plugin.Contact UsIf you have any questions about this privacy policy, please contact us at:
 
-- 电子邮件: a3369605465@gmail.com
+Email: a3369605465@gmail.com
